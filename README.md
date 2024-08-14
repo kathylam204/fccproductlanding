@@ -1,3 +1,6 @@
+# Kathy's Note:
+-The video was supposed to be the song "Virtual Angel" by ARTMS, but the video didn't pop up while I was testing it so you may not see it when you run this project.
+
 # Build a Product Landing Page
 ## Objective: Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks. Do not copy this demo project.
 
